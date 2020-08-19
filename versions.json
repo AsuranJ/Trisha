@@ -1,15 +1,15 @@
 {
   "versions": {
-    "Wed Aug 19 00:41:42 UTC 2020": {
+    "Wed Aug 19 12:19:56 UTC 2020": {
       "bin": [
         "https://nao20010128nao.github.io/ytdl-patched/youtube-dl",
-        "3dd310126e7eb02bd0f650e37cf3456c1e00031f3ab1d6b8f1a03bf6de3d261b"
+        "9a34bffa5eb65689000783359d5d2ff8fd913e2f20aff5e9281df877f5e1ff8a"
       ],
       "tar": [
         "https://nao20010128nao.github.io/ytdl-patched/youtube-dl.tar.gz",
-        "76dffcbb2b3dd325bf02d7fa764094a7ad7c1d82efb3838723c73b84c7a1e81d"
+        "ad2ae1b0444eb5b895e0fd5840b436ad7f2e6955246946c49197aa1acb1855dd"
       ]
     }
   },
-  "latest": "Wed Aug 19 00:41:42 UTC 2020"
+  "latest": "Wed Aug 19 12:19:56 UTC 2020"
 }
