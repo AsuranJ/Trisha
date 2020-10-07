@@ -3,15 +3,15 @@
     "": {
       "bin": [
         "https://nao20010128nao.github.io/ytdl-patched/youtube-dl",
-        "47b52ef865ae6bcc03fd00fa461cb778ce636628aa019d5b6a74bae30771d7b9"
+        "4f3c828b3df44c1546e08b9c31e8ef695884f8f1bc5a90295045e1b2e7e654c0"
       ],
       "tar": [
         "https://nao20010128nao.github.io/ytdl-patched/youtube-dl.tar.gz",
-        "9f03cc877ad7ce8f47609dd5ec93a52699c48dba0c20a2ffc318461dc1f41c6d"
+        "e34c9848d34de3a792b940ea67ae44aad937028e00158912f510aa2dc1eba28d"
       ],
       "exe": [
         "https://nao20010128nao.github.io/ytdl-patched/youtube-dl.exe",
-        "3cc9d84dfc70a4530d623b87634c81ed2520670fec5efd06cf17d9b7d1604800"
+        "f439809637f913d3a1abc03a1efb1b2dc79e1826887df4d189d58887ea94b0d7"
       ]
     }
   },
