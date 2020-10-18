@@ -1,19 +1,19 @@
 {
   "versions": {
-    "Sat Oct 17 23:59:18 UTC 2020": {
+    "Sun Oct 18 00:10:43 UTC 2020": {
       "bin": [
-        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1602979158/youtube-dl",
-        "2792d3d824ba5184e634faf7fec70002628663ddf0f8ffad5042d75d244daa60"
+        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1602979843/youtube-dl",
+        "01e40b0de13615ed4c719babf3e8659163336bf9f2462e8f967f3925684af7b8"
       ],
       "tar": [
-        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1602979158/youtube-dl.tar.gz",
-        "f4ea70168b14ae26f3c540019544f886856845d6c2f0b180bf3aa84b1a0b5357"
+        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1602979843/youtube-dl.tar.gz",
+        "c66a067cf9fe94300efb1c00092b2edccacb60002912a33f8b0490fd2293af2f"
       ],
       "exe": [
-        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1602979158/youtube-dl.exe",
-        "df42a834deede5521c186d4ee07b203514293f6f0c8f00efddd09c6940800f1d"
+        "https://github.com/nao20010128nao/ytdl-patched/releases/download/1602979843/youtube-dl.exe",
+        "c02eed9768cb3d9a23732f4fefb1d735ffdf631c75974a9e534fbcd317fe2ffb"
       ]
     }
   },
-  "latest": "Sat Oct 17 23:59:18 UTC 2020"
+  "latest": "Sun Oct 18 00:10:43 UTC 2020"
 }
